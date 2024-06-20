@@ -1,0 +1,5 @@
+Flask
+azure-cognitiveservices-vision-face
+opencv-python
+deepface
+tensorflow
