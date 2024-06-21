@@ -1,5 +1,6 @@
-Flask
-azure-cognitiveservices-vision-face
-opencv-python
-deepface
-tensorflow
+asgiref==3.5.2
+Django==4.1
+Pillow==9.2.0
+six==1.16.0
+sqlparse==0.4.2
+tzdata==2022.2
