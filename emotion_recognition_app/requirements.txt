@@ -1,0 +1,6 @@
+Flask
+opencv-python
+deepface
+tensorflow
+pillow 
+super-gradients
